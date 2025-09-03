@@ -25,7 +25,7 @@ CSV/Excel Dataset (not included here; assumed to be used for creating visuals)
 ![Screenshot 2025-06-03 115817](https://github.com/user-attachments/assets/2e40189d-9679-4e70-bfbd-b8152a322ca0)
 
 
-##Benefits of This Dashboard
+## Benefits of This Dashboard
 
 - **Supports executive-level decision-making through high-level KPIs.**
 - **Helps marketing teams target high-revenue sub-categories.**
@@ -37,3 +37,9 @@ CSV/Excel Dataset (not included here; assumed to be used for creating visuals)
 - **Open the .pbix file in Power BI Desktop.**
 - **(Optional) Replace the dataset with your own sales data.**
 - **Explore interactive filters and visuals.**
+
+  ## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vaibhavm1122/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:mahaleva0012@gmail.com.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/VaibhavM1122)
