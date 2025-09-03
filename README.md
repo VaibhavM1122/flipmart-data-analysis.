@@ -34,7 +34,6 @@ CSV/Excel Dataset (not included here; assumed to be used for creating visuals)
 
  ## How to Use
  
-- **Clone the repository.**
 - **Open the .pbix file in Power BI Desktop.**
 - **(Optional) Replace the dataset with your own sales data.**
 - **Explore interactive filters and visuals.**
